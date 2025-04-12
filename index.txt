@@ -1,0 +1,240 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Abdullah Al Raju
+Abdullah Al Raju
+Ethical Hacker | Tech/Support Expert
+
+Show Contacts
+
+Email
+analystx.raju@gmail.com
+
+Phone
++880-1963465178
+
+Birthday
+November 26, 2006
+
+Location
+Dhaka, Bangladesh.
+
+# navbar
+
+About
+Resume
+certifications
+Blog
+Contact
+
+# about
+
+About me
+
+I am an ethical hacker and bug hunter from Dhaka, Bangladesh, currently a Junior Penetration Testing Intern at Byte Capsule. I specialize in uncovering vulnerabilities in systems, networks, and applications through rigorous testing, with hands-on experience on Bugcrowd. Certified in ethical hacking and cybersecurity,
+
+I’m passionate about analyzing threats as a future SOC analyst and providing tech support to secure digital environments. My goal is to excel in global cybersecurity opportunities.
+
+
+## service
+
+What i'm doing
+
+alt = Hacking icon
+Ethical Hacking
+Identifying and exploiting vulnerabilities to strengthen system security at a professional level.
+
+alt = Pentesting icon
+Penetration Testing
+Conducting tests to detect and resolve security flaws in networks and applications.
+
+alt = analyzing icon
+SOC Analysis
+Studying threat detection and incident response to prepare for security operations roles.
+
+alt = support icon
+Tech/Support
+Developing skills to troubleshoot and secure IT systems for robust user support.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Henry william
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+University school of the arts
+2007 — 2008
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+New york academy of art
+2006 — 2007
+Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+
+High school of art and design
+2002 — 2004
+Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+
+Experience
+
+Creative director
+2015 — Present
+Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+
+Art director
+2013 — 2015
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+Web designer
+2010 — 2013
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+My skills
+
+Web design
+80%
+Graphic design
+70%
+Branding
+90%
+WordPress
+50%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
